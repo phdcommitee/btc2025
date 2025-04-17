@@ -1,8 +1,18 @@
 title: "Blue Think Conference 2025"
 description: "An annual gathering of researchers and innovators."
-theme: cayman
+theme: jekyll-theme-cayman
+# Include custom CSS
+sass:
+  style: compressed
+
 baseurl: "" # Leave blank for user/organization site, or set as "/conference-website" for project site
 url: "https://phdcommitee.github.io"
 markdown: kramdown
 kramdown:
   parse_block_html: true
+
+# Add custom CSS file
+plugins:
+  - jekyll-assets
+
+

@@ -1,0 +1,92 @@
+/* Custom CSS for Cayman Theme */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+/* Set a background image for the entire page */
+body {
+    background-image: url('/assets/images/bck1.jpg'); /* Adjust the path to your image */
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents tiling of the image */
+    background-attachment: fixed; /* Makes the background static during scrolling */
+    background-position: center; /* Centers the image */
+  }
+  
+  /* Optional: Add transparency to the content area */
+  .content {
+    background-color: rgba(255, 255, 255, 0.3); /* White background with slight transparency */
+    padding: 20px; /* Adds spacing inside the content area */
+    border-radius: 10px; /* Optional rounded corners */
+  }
+
+/* Customize the page-header */
+.page-header {
+  background: rgba(255, 255, 255, 0.75) !important; /* Removes the background */
+  box-shadow: none !important; /* Removes any shadow effects */
+}
+
+
+/* Override specific elements if needed */
+h2, h3, h4, h5, h6, p {
+  color: black !important; /* Ensure all text elements are black */
+  font-family: 'Roboto Slab', sans-serif !important;
+}
+
+
+h1 {
+  color: #0074ff !important; /* Ensure all text elements are black */
+  font-family: 'Roboto Slab', sans-serif !important;
+}
+
+
+/* Style the page-header */
+.page-header {
+  display: flex; /* Use Flexbox for layout */
+  align-items: center; /* Vertically align items */
+  padding: 20px; /* Add some padding */
+}
+
+/* Align the content inside the header */
+.header-content {
+  display: flex; /* Flexbox for aligning logo and text */
+  align-items: center; /* Vertically align logo and text */
+  gap: 20px; /* Add spacing between the logo and text */
+}
+
+/* Style the logo */
+.logo {
+  max-width: 150px; /* Adjust max width for responsiveness */
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* Style the text */
+.header-text {
+  display: flex;
+  flex-direction: column; /* Stack the title and tagline vertically */
+}
+
+.project-name {
+  margin: 0;
+  font-size: 50px;
+  font-weight: bold;
+  color: black !important; /* Custom color for project name */
+  font-family: 'Roboto Slab', sans-serif !important;
+
+}
+
+.project-tagline {
+  margin: 0;
+  font-size: 20px;
+  font-weight: normal;
+  color: black; /* Custom color for project tagline */
+  font-family: 'Roboto Slab', sans-serif !important;
+}
+
+/* TEST
+/* Add a background square to the body text */
+.body-content {
+  background-color: rgba(255, 255, 255, 0.75); /* Sets the white background */
+  padding: 20px;           /* Adds spacing inside the box */
+  margin: 20px auto;       /* Centers the box horizontally */
+  border-radius: 10px;     /* Optional: Adds rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a subtle shadow */
+  max-width: 800px;        /* Sets a maximum width for the box */
+}
