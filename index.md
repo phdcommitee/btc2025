@@ -10,6 +10,8 @@ title: "Blue Think Conference 2025"
 
 This website is under construction
 
+Thank you for your understanding 
+
 
 
 
