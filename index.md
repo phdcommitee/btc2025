@@ -2,16 +2,12 @@
 title: "Blue Think Conference 2025"
 ---
 
-<nav>
-  <ul>
-    <li><a href="index.md">Home</a></li>
-    <li><a href="information/about.md">About</a></li>
-    <li><a href="information/ConferenceVenue.md">Conference Venue</a></li>
-  </ul>
-</nav>
-
 # ABOUT
-Blue Think Conference 2025 (BTC25) is a conference that foster science communication in marine and environmental research.
+The Blue Think Conference (BTC) is an annual meeting organised by the Interdisciplinary Centre of Marine and Environmental Research (CIIMAR) PhD Students’ Committee. Our aim is to gather all students affiliated with our institute in a casual and relaxed environment to share the outputs of our works. We welcome everyone to attend, hear and discuss the work developed by CIIMAR students.
+
+The presentations include the different scientific fields within CIIMAR laboratories. Each session will count with the presence of renowned scientists who will talk about their scientific careers, professional experiences and most important work achievements.
+
+We hope that this event will expand our scientific knowledge, but also bring closer CIIMAR students who work in different groups and laboratories scattered through several faculties and institutes of the University of Porto.
 
 # CONFERENCE SESSIONS
 ### The CIIMAR and CCMAR research lines, united
