@@ -1,6 +1,6 @@
 ---
 title: "Blue Think Conference 2025"
-
+---
 # ABOUT
 Blue Think Conference 2025 (BTC25) is a conference that foster science communication in marine and environmental research.
 
@@ -13,5 +13,5 @@ Blue Think Conference 2025 (BTC25) is a conference that foster science communica
 # KEYNOTE SPEAKERS
 
 #GUEST SPEAKERS
----
+
 
