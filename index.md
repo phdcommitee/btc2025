@@ -19,15 +19,9 @@ Av. General Norton de Matos s/n
 4450-208 Matosinhos
 Portugal
 
-# CONFERENCE SESSIONS
-### The CIIMAR and CCMAR research lines, united
-1. research line 1
-2. research line 2
-3. research line 3
+# Contact Us
+Do you have questions, suggestions, or anything you need to talk to us about? Just send us a message here, or, if you’re at CIIMAR, feel free to hit us up anytime. We’ll be more than glad to talk to you!
 
-# KEYNOTE SPEAKERS
-
-#GUEST SPEAKERS
 
 
 
