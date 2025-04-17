@@ -5,8 +5,8 @@ title: "Blue Think Conference 2025"
 <nav>
   <ul>
     <li><a href="index.md">Home</a></li>
-    <li><a href="about.md">About</a></li>
-    <li><a href="ConferenceVenue.md">Conference Venue</a></li>
+    <li><a href="information/about.md">About</a></li>
+    <li><a href="information/ConferenceVenue.md">Conference Venue</a></li>
   </ul>
 </nav>
 
