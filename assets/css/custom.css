@@ -3,7 +3,7 @@
 
 /* Set a background image for the entire page */
 body {
-    background-image: url('/assets/images/bck1.jpg'); /* Adjust the path to your image */
+    background-image: url('https://phdcommitee.github.io/btc2025/assets/images/bck1.jpg'); /* Adjust the path to your image */
     background-size: cover; /* Ensures the image covers the entire background */
     background-repeat: no-repeat; /* Prevents tiling of the image */
     background-attachment: fixed; /* Makes the background static during scrolling */
