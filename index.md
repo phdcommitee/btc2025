@@ -15,10 +15,12 @@ title: "Blue Think Conference 2025"
 #### Conference: 10th September
 
 # Conference Research Lines
+1. Biology, Aquaculture & Seafood Quality
+2. Global Changes, Ecosystems Services & Human Impacts
+3. Marine Biotechnology
 
-## Biology, Aquaculture & Seafood Quality
-## Global Changes, Ecosystems Services & Human Impacts
-## Marine Biotechnology
+# Keynote Speakers
+To be announced soon
 
 This website is still under construction
 Thank you for your understanding 
