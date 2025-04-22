@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blue Think Conference 2025"
-permalink: https://phdcommitee.github.io/btc2025/committee/
+permalink: /committee/
 ---
 # Organising Committee
 ## CIIMAR PhD Students’ Committee
