@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blue Think Conference 2025"
-permalink: /about/
+permalink: /about.md/
 ---
 
 # About The Conference
