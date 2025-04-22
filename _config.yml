@@ -5,7 +5,7 @@ theme: jekyll-theme-cayman
 sass:
   style: compressed
 
-baseurl: "" # Leave blank for user/organization site, or set as "/conference-website" for project site
+baseurl: "/btc2025" # Leave blank for user/organization site, or set as "/conference-website" for project site
 url: "https://phdcommitee.github.io"
 markdown: kramdown
 kramdown:
