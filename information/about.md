@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Blue Think Conference 2025"
-permalink: /about/
+permalink: [/about/](https://phdcommitee.github.io/btc2025/)
 ---
 
 # About The Conference
