@@ -22,6 +22,9 @@ title: "Blue Think Conference 2025"
 # Keynote Speakers
 To be announced soon
 
+# Sponsors
+[Contact us](bluethinkconference@gmail.com) if you want to become a sponsor of this event
+
 This website is still under construction
 Thank you for your understanding 
 
