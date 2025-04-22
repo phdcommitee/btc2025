@@ -10,9 +10,9 @@ title: "Blue Think Conference 2025"
 
 # BTC2025 Registrations are opening soon
 
-##### Oral Abstract Submission Deadline: 30th June
-##### Registration Deadline: to be announced
-##### Conference: 10th September
+#### Oral Abstract Submission Deadline: 30th June
+#### Registration Deadline: to be announced
+#### Conference: 10th September
 
 # Conference Research Lines
 
