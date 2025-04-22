@@ -53,7 +53,7 @@
     }
   
     .nav-list.active {
-      display: flex;
+      display: block;
     }
   }
 
