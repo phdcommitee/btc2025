@@ -14,7 +14,7 @@ title: "Blue Think Conference 2025"
 #### Registration Deadline: to be announced
 #### Conference: 10th September
 
-# Conference Research Lines
+# Conference Sessions
 1. Biology, Aquaculture & Seafood Quality
 2. Global Changes, Ecosystems Services & Human Impacts
 3. Marine Biotechnology
