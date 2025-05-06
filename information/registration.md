@@ -5,3 +5,5 @@ permalink: /registration/
 ---
 
 # Registration
+
+![alt text](/assets//images/logo.jpg)
