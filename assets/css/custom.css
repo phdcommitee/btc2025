@@ -83,7 +83,7 @@ h1 {
 /* TEST
 /* Add a background square to the body text */
 .body-content {
-  background-color: rgba(255, 255, 255, 0.75); /* Sets the white background */
+  background-color: rgba(255, 255, 255, 1); /* Sets the white background */
   padding: 20px;           /* Adds spacing inside the box */
   margin: 20px auto;       /* Centers the box horizontally */
   border-radius: 10px;     /* Optional: Adds rounded corners */
