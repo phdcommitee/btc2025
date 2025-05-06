@@ -23,7 +23,7 @@ title: "Blue Think Conference 2025"
 To be announced soon
 
 # Sponsors
-[Contact us](bluethinkconference@gmail.com) if you want to become a sponsor of this event
+[Contact us]("mailto:bluethinkconference@gmail.com") if you want to become a sponsor of this event
 
 This website is still under construction
 Thank you for your understanding 
