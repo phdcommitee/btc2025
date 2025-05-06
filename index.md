@@ -15,8 +15,7 @@ title: "Blue Think Conference 2025"
 #### Conference: 10th September
 
 # Conference Sessions
-<img src="https://phdcommitee.github.io/btc2025//assets/images/1.png" alt="research line 1" width="400" height="400"> Biology, Aquaculture & Seafood Quality
-
+<img src="https://phdcommitee.github.io/btc2025//assets/images/1.png" alt="research line 1" align="left" width="100" height="100"> <h2> Biology, Aquaculture & Seafood Quality </h2>
 Global Changes, Ecosystems Services & Human Impacts
 
 Marine Biotechnology
