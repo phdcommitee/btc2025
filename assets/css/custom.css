@@ -19,7 +19,7 @@ body {
 
 /* Customize the page-header */
 .page-header {
-  background: rgba(255, 255, 255, 0.75) !important; /* Removes the background */
+  background: rgba(255, 255, 255, 1) !important; /* Removes the background */
   box-shadow: none !important; /* Removes any shadow effects */
 }
 
