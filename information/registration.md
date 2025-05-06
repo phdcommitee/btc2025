@@ -7,3 +7,4 @@ permalink: /registration/
 # Registration
 
 ![alt text](/assets//images/BTC25_Header.png)
+
