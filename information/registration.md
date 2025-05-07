@@ -6,7 +6,7 @@ permalink: /registration/
 
 # Registration
 
-![BTC25 Header](/assets//images/BTC25_Header.png)
+<img src="/assets//images/BTC25_Header.png" alt="BTC25 Header" width="1900" height="280">
 
 Registering to the conference is possible via the specific Google Form (available soon).
 
