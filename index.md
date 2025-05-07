@@ -18,21 +18,21 @@ title: "Blue Think Conference 2025"
 <img src="https://phdcommitee.github.io/btc2025//assets/images/1.png" alt="research line 1" align="left" width="100" height="100">
 &nbsp;
 
-###    Biology, Aquaculture & Seafood Quality 
+###            Biology, Aquaculture & Seafood Quality 
 
 &nbsp;
 
 <img src="https://phdcommitee.github.io/btc2025//assets/images/2.png" alt="research line 2" align="left" width="100" height="100">
 &nbsp;
 
-###    Global Changes, Ecosystems Services & Human Impacts
+###            Global Changes, Ecosystems Services & Human Impacts
 
 &nbsp;
 
 <img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
 &nbsp;
 
-###    Marine Biotechnology
+###            Marine Biotechnology
 
 &nbsp;
 
