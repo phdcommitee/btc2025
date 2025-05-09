@@ -8,7 +8,7 @@ permalink: /guidelines/
 
 ## Oral Communication
 After abstract evaluation, we’ll send you an e-mail with the results until the 15th of August;
-If you’re selected for oral communication we’ll ask you to respond to that e-mail with the presentation PDF with the title “LastName_FirstName_BTC2024.pdf“, by the 3rd of September;
+If you’re selected for oral communication we’ll ask you to respond to that e-mail with the presentation PDF with the title “LastName_FirstName_BTC2025.pdf“, by the 9th of September;
 Communication time limit is 10 minutes — the session moderator will let you know when time is running out;
 There will be time for questions at the end of each presentation, around 2 minutes;
 Be ready to present at any time during your session, as contingency for unplanned circumstances.
