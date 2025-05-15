@@ -97,15 +97,8 @@ h1 {
     background-color: white;
     display: flex;
     justify-content: center;
-    align-items: left;
-    border: 2px solid black;
+    align-items: center;
+    border: 2px solid white;
     margin: 20px auto;
     text-align: center;
-}
-
-.rectangle a {
-    text-decoration: none;
-    font-size: 18px;
-    color: blue;
-    font-weight: bold;
 }
