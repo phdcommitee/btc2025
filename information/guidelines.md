@@ -19,7 +19,7 @@ You’ll be assigned a slot to put up your poster at the beginning of the confer
 They’ll stay up throughout the whole event, but be ready for attendee questions during the coffee breaks;
 Don’t forget to take it down at the end of the conference!
 
-### Abstract template
+## Abstract template
 
 <div class="rectangle">
  <a href="https://phdcommitee.github.io/btc2025//assets/documents/Abstract_Template_BTC2025.docx" download="Abstract Template"> Click here to download the abstract template  </a>
