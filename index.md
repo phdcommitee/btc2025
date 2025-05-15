@@ -47,13 +47,13 @@ To be announced soon !
 
 <a href="https://ccmar.ualg.pt/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/CCMAR_logo.png" alt="CCMAR logo" align="left" width="100" height="100"> </a>
 
-<a href="https://leixoes.apdl.pt/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/LEIXOES_logo.png" alt="APDL logo" align="left" width="100" height="100"> </a>
+<a href="https://leixoes.apdl.pt/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/LEIXOES_logo.png" alt="APDL logo" align="center" width="100" height="100"> </a>
 
-<a href="https://www.ciimar.up.pt/pt-pt/first-cimar-la-meeting/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/CIMAR_logo.jpg" alt="CIMAR logo" align="left" width="100" height="100"> </a>
+<a href="https://www.ciimar.up.pt/pt-pt/first-cimar-la-meeting/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/CIMAR_logo.jpg" alt="CIMAR logo" align="center" width="100" height="100"> </a>
 
-<a href="https://www.odisseias.com/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/ODISSEIAS_logo.png" alt="ODISSEIAS logo" align="left" width="100" height="100"> </a>
+<a href="https://www.odisseias.com/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/ODISSEIAS_logo.png" alt="ODISSEIAS logo" align="right" width="100" height="100"> </a>
 
-<a href="https://www.stabvida.com/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/STABVIDA_logo.png" alt="STABVIDA logo" align="left" width="100" height="100"> </a>
+<a href="https://www.stabvida.com/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/STABVIDA_logo.png" alt="STABVIDA logo" align="right" width="100" height="100"> </a>
 
 <br>
 
