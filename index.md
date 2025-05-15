@@ -43,9 +43,23 @@ To be announced soon !
 
 # Sponsors
 
+<a href="https://www.ciimar.up.pt/"><img src="image destination"></a>
+
+<a href="link address"><img src="image destination"></a>
+
+<a href="link address"><img src="image destination"></a>
+
+<a href="link address"><img src="image destination"></a>
+
+
+
 <a href="mailto:bluethinkconference@gmail.com">Contact us</a> if you want to become a sponsor of this event
 
+
+If you experience problem during the navigation on smartphone, please select the option "Desktop Site" in your browser of choice. We are currently working to solve the issue.
+
 This website is still under construction
+
 Thank you for your understanding 
 
 
