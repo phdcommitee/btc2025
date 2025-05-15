@@ -39,7 +39,7 @@ Conference: 10th September 2025
 &nbsp;
 
 # Keynote Speakers
-### To be announced soon !
+To be announced soon !
 
 # Sponsors
 
