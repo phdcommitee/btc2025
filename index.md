@@ -43,19 +43,17 @@ To be announced soon !
 
 # Sponsors
 
-<a href="https://www.ciimar.up.pt/"><img src="image destination"></a>
+<a href="https://www.ciimar.up.pt/"><img src="https://phdcommitee.github.io/btc2025/assets/images/CIIMAR_logo.png"></a>
 
-<a href="https://ccmar.ualg.pt/"><img src="image destination"></a>
+<a href="https://ccmar.ualg.pt/"><img src="https://phdcommitee.github.io/btc2025/assets/images/CCMAR_logo.png"></a>
 
-<a href="https://leixoes.apdl.pt/"><img src="image destination"></a>
+<a href="https://leixoes.apdl.pt/"><img src="https://phdcommitee.github.io/btc2025/assets/images/LEIXOES_logo.png"></a>
 
-<a href="https://www.ciimar.up.pt/pt-pt/first-cimar-la-meeting/"><img src="image destination"></a>
+<a href="https://www.ciimar.up.pt/pt-pt/first-cimar-la-meeting/"><img src="https://phdcommitee.github.io/btc2025/assets/images/CIMAR_logo.jpg"></a>
 
-<a href="https://leixoes.apdl.pt/"><img src="image destination"></a>
+<a href="https://www.odisseias.com/"><img src="https://phdcommitee.github.io/btc2025/assets/images/ODISSEIAS_logo.png"></a>
 
-<a href="https://www.odisseias.com/"><img src="image destination"></a>
-
-<a href="https://www.stabvida.com/"><img src="image destination"></a>
+<a href="https://www.stabvida.com/"><img src="https://phdcommitee.github.io/btc2025/assets/images/STABVIDA_logo.png"></a>
 
 
 
