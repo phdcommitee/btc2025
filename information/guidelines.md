@@ -20,4 +20,9 @@ They’ll stay up throughout the whole event, but be ready for attendee question
 Don’t forget to take it down at the end of the conference!
 
 ### Abstract template
-Click here for the abstract template 
+
+<div class="rectangle">
+ <a href="link/to/your/download/file" download="filename"> Click here to download the abstract template  </a>
+</div>
+
+
