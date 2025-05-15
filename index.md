@@ -3,7 +3,7 @@ title: "Blue Think Conference 2025"
 ---
 
 <div id="countdown">
-  <h2>Time remaining to BTC 2025</h2>
+  <h2>The Blue Think Conference 2025 will commence in: </h2>
   <p id="countdown-timer"></p>
 </div>
 <script src="https://phdcommitee.github.io/btc2025/assets/js/countdown.js"></script>
@@ -39,21 +39,21 @@ title: "Blue Think Conference 2025"
 # Keynote Speakers
 ## CIIMAR
 ### Biology, Aquaculture & Seafood Quality
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Lourenço_Ramos_Pinto.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/lourenco-pinto/">Lourenço Ramos Pinto</a></h3>
 
 &nbsp;
 &nbsp;
 
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Sara_Moutinho.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/sara-moutinho/">Sara Moutinho</a></h3>
 
 &nbsp;
 &nbsp;
 
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Ana_Filipe_Basto.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/ana-basto/">Ana Filipe Basto</a></h3>
 
@@ -61,21 +61,21 @@ title: "Blue Think Conference 2025"
 &nbsp;
 
 ### Global Changes, Ecosystem Services and Human Impact
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Pedro_Rodrigues.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/pedro-rodrigues/">Pedro Rodrigues</a></h3>
 
 &nbsp;
 &nbsp;
 
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Marlene_Pinheiro.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/marlene-pinheiro/">Marlene Pinheiro</a></h3>
 
 &nbsp;
 &nbsp;
 
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Ana_Matos.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/ana-matos/">Ana Matos</a></h3>
 
@@ -83,14 +83,14 @@ title: "Blue Think Conference 2025"
 &nbsp;
 
 ### Marine Biotechnology
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Diogo_Alexandrino.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/diogo-alexandrino/">Diogo Alexandrino</a></h3>
 
 &nbsp;
 &nbsp;
 
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Eunice_Ferreira.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/eunice-ferreira/">Eunice Ferreira</a></h3>
 
@@ -99,21 +99,21 @@ title: "Blue Think Conference 2025"
 
 ## CCMAR
 ### Biology, Aquaculture & Seafood Quality
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Sofia_Aranha.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://ccmar.ualg.pt/users/sgramos">Sofia Aranha</a></h3>
 
 &nbsp;
 &nbsp;
 
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Rita_Teodesio.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://ccmar.ualg.pt/users/rteodosio">Rita Teodósio</a></h3>
 
 &nbsp;
 &nbsp;
 
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Sebastian_Kraft.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://ccmar.ualg.pt/en/user/242">Sebastian Kraft</a></h3>
 
@@ -121,14 +121,14 @@ title: "Blue Think Conference 2025"
 &nbsp;
 
 ### Global Changes, Ecosystem Services and Human Impact
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Joao_Ercanaco.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://ccmar.ualg.pt/users/jpencarnacao">João Encarnação</a></h3>
 
 &nbsp;
 &nbsp;
 
-<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Monika_Jadwiga_Szynaka.png" alt="research line 3" align="left" width="100" height="100">
 
 ### &nbsp; &nbsp; <h3><a href="https://ccmar.ualg.pt/users/mjszynaka">Monika Jadwiga Szynaka</a></h3>
 
