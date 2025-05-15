@@ -8,11 +8,13 @@ title: "Blue Think Conference 2025"
 </div>
 <script src="https://phdcommitee.github.io/btc2025/assets/js/countdown.js"></script>
 
-# BTC2025 Registrations are opening soon
+# BTC2025 Registrations are now open!
 
-#### Oral Abstract Submission Deadline: 30th June
-#### Registration Deadline: to be announced
-#### Conference: 10th September
+Oral Abstract Submission Deadline: 30th June
+
+Registration Deadline: to be announced
+
+Conference: 10th September 2025
 
 # Conference Sessions
 <img src="https://phdcommitee.github.io/btc2025//assets/images/1.png" alt="research line 1" align="left" width="100" height="100">
