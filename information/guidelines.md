@@ -22,7 +22,7 @@ Don’t forget to take it down at the end of the conference!
 ### Abstract template
 
 <div class="rectangle">
- <a href="link/to/your/download/file" download="filename"> Click here to download the abstract template  </a>
+ <a href="https://phdcommitee.github.io/btc2025//assets/documents/Abstract_Template_BTC2025.docx" download="Abstract Template"> Click here to download the abstract template  </a>
 </div>
 
 
