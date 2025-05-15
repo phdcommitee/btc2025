@@ -37,7 +37,60 @@ title: "Blue Think Conference 2025"
 &nbsp;
 
 # Keynote Speakers
-To be announced soon
+### Biology, Aquaculture & Seafood Quality
+<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+&nbsp;
+
+### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/lourenco-pinto/">Lourenço Ramos Pinto</a></h3>
+
+&nbsp;
+<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+&nbsp;
+
+### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/sara-moutinho/">Sara Moutinho</a></h3>
+
+&nbsp;
+<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+&nbsp;
+
+### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/lourenco-pinto/">Lourenço Ramos Pinto</a></h3>
+
+&nbsp;
+
+### Global Changes, Ecosystem Services and Human Impact
+<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+&nbsp;
+
+### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/pedro-rodrigues/">Pedro Rodrigues</a></h3>
+
+&nbsp;
+<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+&nbsp;
+
+### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/marlene-pinheiro/">Marlene Pinheiro</a></h3>
+
+&nbsp;
+<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+&nbsp;
+
+### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/ana-matos/">Ana Matos</a></h3>
+
+&nbsp;
+### Marine Biotechnology
+<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+&nbsp;
+
+### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/diogo-alexandrino/">Diogo Alexandrino</a></h3>
+
+&nbsp;
+
+<img src="https://phdcommitee.github.io/btc2025//assets/images/3.png" alt="research line 3" align="left" width="100" height="100">
+&nbsp;
+
+### &nbsp; &nbsp; <h3><a href="https://www.ciimar.up.pt/pt-pt/members/eunice-ferreira/">Eunice Ferreira</a></h3>
+
+&nbsp;
+
 
 # Sponsors
 
