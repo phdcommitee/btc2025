@@ -6,7 +6,7 @@ permalink: /registration/
 
 # Registration
 
-<img src="https://phdcommitee.github.io/btc2025/assets/images/BTC25_Header.png" alt="BTC25 Header" width="950" height="140">
+<img src="https://phdcommitee.github.io/btc2025/assets/images/BTC25_Header.png" alt="BTC25 Header" width="850" height="140">
 
 Registering to the conference is possible via the specific Google Form.
  
