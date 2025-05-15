@@ -55,8 +55,11 @@ To be announced soon !
 
 <a href="https://www.stabvida.com/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/STABVIDA_logo.png" alt="STABVIDA logo" align="left" width="100" height="100"> </a>
 
-&nbsp;
-&nbsp;
+<br> </br>
+
+<br> </br>
+
+<br> </br>
 
 <a href="mailto:bluethinkconference@gmail.com">Contact us</a> if you want to become a sponsor of this event
 
