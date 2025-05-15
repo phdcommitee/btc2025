@@ -45,11 +45,19 @@ To be announced soon !
 
 <a href="https://www.ciimar.up.pt/"><img src="image destination"></a>
 
-<a href="link address"><img src="image destination"></a>
+<a href="https://ccmar.ualg.pt/"><img src="image destination"></a>
 
-<a href="link address"><img src="image destination"></a>
+<a href="https://leixoes.apdl.pt/"><img src="image destination"></a>
 
-<a href="link address"><img src="image destination"></a>
+<a href="https://www.ciimar.up.pt/pt-pt/first-cimar-la-meeting/"><img src="image destination"></a>
+
+<a href="https://leixoes.apdl.pt/"><img src="image destination"></a>
+
+<a href="https://www.odisseias.com/"><img src="image destination"></a>
+
+<a href="https://www.stabvida.com/"><img src="image destination"></a>
+
+
 
 
 
