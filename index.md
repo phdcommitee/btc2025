@@ -69,3 +69,5 @@ If you experience problem during the navigation on smartphone, please select the
 This website is still under construction
 
 Thank you for your understanding 
+
+Are you experiencing issues? Please <a href="mailto:ngambardella@ciimar.up.pt">contact us</a>
