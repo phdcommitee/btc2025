@@ -38,7 +38,7 @@
 /* Responsive styling */
 @media screen and (max-width: 768px) {
     .menu-toggle {
-        display: flex !important;
+        display: none;
         position: absolute;
         left: 1rem;
         top: 50%;
