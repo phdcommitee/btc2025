@@ -1,6 +1,8 @@
 /* Navbar styling */
 .navbar {
-    display: flex;
+    position: relative;
+    z-index:10; /* ensure it's above content */
+    display: flex; 
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
@@ -12,6 +14,9 @@
   .nav-list {
     display: flex;
     list-style-type: none;
+    position: absolute;
+    top: 100%; /* place just below the navbar */
+    left: 0;
   }
   
   .nav-list li {
@@ -40,6 +45,8 @@
   @media screen and (max-width: 768px) {
     .menu-toggle {
       display: flex;
+        position: static;
+        width: auto;
     }
   
     .nav-list {
