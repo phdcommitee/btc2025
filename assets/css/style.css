@@ -14,13 +14,6 @@
 /* Hamburger icon positioning */
 .menu-toggle {
     display: none;
-    flex-direction: column;
-    cursor: pointer;
-    position: absolute;
-    left: 1rem;
-    top: 50%;
-    transform: translateY(-50%);
-    z-index: 20; /* Ensure it's above nav-list */
 }
 
 /* Nav list styling */
@@ -39,11 +32,9 @@
 /* Responsive styling */
 @media screen and (max-width: 768px) {
     .menu-toggle {
-        display: none;
-        position: absolute;
-        left: 1rem;
-        top: 50%;
-        transform: translateY(-50%);
+        display: flex !important;
+        position: relative;
+        zindex: 10;
     }
 
     .nav-list {
