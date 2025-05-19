@@ -1,10 +1,10 @@
 <nav class="navbar">
-  <div class="menu-toggle" id="mobile-menu">
-    <span class="bar"></span>
-    <span class="bar"></span>
-    <span class="bar"></span>
+  <div class="menu-toggle" id="menu-toggle">
+      <span></span>
+      <span></span>
+      <span></span>
   </div>
-  <ul class="nav-list">
+  <ul class="nav-list" id="nav-list">
     <li><a href="https://phdcommitee.github.io/btc2025/">Home</a></li>
     <li><a href="https://phdcommitee.github.io/btc2025/about/">About</a></li>
     <li><a href="https://phdcommitee.github.io/btc2025/registration/">Registration</a></li>
@@ -13,7 +13,14 @@
     <li><a href="https://phdcommitee.github.io/btc2025/guidelines/">Guidelines</a></li>
     <li><a href="https://phdcommitee.github.io/btc2025/program/">Program</a></li>
     <li><a href="https://phdcommitee.github.io/btc2025/sponsors/">Sponsors</a></li>
-    <li><a href="https://phdcommitee.github.io/btc2025/contactus/">Contact Us</a></li>
-    
+    <li><a href="https://phdcommitee.github.io/btc2025/contactus/">Contact Us</a></li>    
   </ul>
+    <script>
+    // Simple JS to toggle the nav-list on mobile
+    const menuToggle = document.getElementById('menu-toggle');
+    const navList = document.getElementById('nav-list');
+    menuToggle.addEventListener('click', () => {
+      navList.classList.toggle('active');
+    });
+  </script>
 </nav>
