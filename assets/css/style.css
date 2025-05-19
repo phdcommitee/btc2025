@@ -3,7 +3,7 @@
     position: relative;
     z-index:10; /* ensure it's above content */
     display: flex; 
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     padding: 1rem;
     background-color: #0074ff;
@@ -29,6 +29,7 @@
   }
   
   .menu-toggle {
+    position: absolute;
     display: none;
     flex-direction: column;
     cursor: pointer;
@@ -45,8 +46,9 @@
   @media screen and (max-width: 768px) {
     .menu-toggle {
       display: flex !important;
-        position: static;
-        width: auto;
+      position: absolute;
+      width: auto;
+      left: 1rem;
     }
   
     .nav-list {
