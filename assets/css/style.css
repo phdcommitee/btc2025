@@ -20,6 +20,7 @@
     left: 1rem;
     top: 50%;
     transform: translateY(-50%);
+    z-index: 20; /* Ensure it's above nav-list */
 }
 
 /* Nav list styling */
