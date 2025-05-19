@@ -44,7 +44,7 @@
   /* Responsive styling */
   @media screen and (max-width: 768px) {
     .menu-toggle {
-      display: flex;
+      display: flex !important;
         position: static;
         width: auto;
         heigth: auto;
