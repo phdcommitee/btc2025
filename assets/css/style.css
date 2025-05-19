@@ -47,14 +47,13 @@
       display: flex !important;
         position: static;
         width: auto;
-        heigth: auto;
     }
   
     .nav-list {
       display: none;
       flex-direction: column;
       width: 100%;
-      background-color: #52a0ff;
+      background-color: #0074ff;
       position: absolute;
       top: 100%;
       left: 0;
