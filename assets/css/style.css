@@ -47,6 +47,7 @@
       display: flex;
         position: static;
         width: auto;
+        heigth: auto;
     }
   
     .nav-list {
