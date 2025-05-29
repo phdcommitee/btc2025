@@ -5,7 +5,29 @@ permalink: /committee/
 ---
 
 # Session Chairs
-### To be announced soon !
+## CIIMAR
+### Global Changes, Ecosystem Services and Human Impact
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Miguel_Semedo.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/miguel-semedo/">Miguel Semedo</a>
+
+&nbsp;
+&nbsp;
+
+### Biology Aquaculture and Seafood Quality
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Mariana_Hinzmann.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/mariana-hinzmann/">Mariana Hinzmann</a>
+
+&nbsp;
+&nbsp;
+
+### Marine Biotechnology
+To be confirmed soon!
 
 # Scientific Committee
 ## CIIMAR
@@ -33,6 +55,15 @@ permalink: /committee/
 &nbsp;
 
 ### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/ana-basto/">Ana Filipe Basto</a>
+
+&nbsp;
+&nbsp;
+
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Marta_Monteiro.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/marta-monteiro/">Marta Monteiro</a>
 
 &nbsp;
 &nbsp;
@@ -65,6 +96,15 @@ permalink: /committee/
 &nbsp;
 &nbsp;
 
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Andre_Santos.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/andre-santos/">André Santos</a>
+
+&nbsp;
+&nbsp;
+
 ### Marine Biotechnology
 <img src="https://phdcommitee.github.io/btc2025//assets/images/Diogo_Alexandrino.png" alt="research line 3" align="left" width="100" height="100">
 
@@ -80,6 +120,15 @@ permalink: /committee/
 &nbsp;
 
 ### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/eunice-ferreira/">Eunice Ferreira</a>
+
+&nbsp;
+&nbsp;
+
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Mariana_Girao.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/mariana-girao-martins/">Mariana Girão</a>
 
 &nbsp;
 &nbsp;
@@ -113,6 +162,24 @@ permalink: /committee/
 &nbsp;
 &nbsp;
 
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Maria_Cabrera_Alvarez.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://ccmar.ualg.pt/en/user/223">Maria Cabrera Álvarez</a>
+
+&nbsp;
+&nbsp;
+
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Renata_Goncalves.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://ccmar.ualg.pt/users/renatagoncalves">Renata Gonçalves</a>
+
+&nbsp;
+&nbsp;
+
 ### Global Changes, Ecosystem Services and Human Impact
 <img src="https://phdcommitee.github.io/btc2025//assets/images/Joao_Ercanaco.png" alt="research line 3" align="left" width="100" height="100">
 
@@ -128,6 +195,34 @@ permalink: /committee/
 &nbsp;
 
 ### &nbsp; &nbsp; <a href="https://ccmar.ualg.pt/users/mjszynaka">Monika Jadwiga Szynaka</a>
+
+&nbsp;
+&nbsp;
+
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Joana_Cruz.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://ccmar.ualg.pt/users/jmcruz">Joana Cruz</a>
+
+&nbsp;
+&nbsp;
+
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Vania_Baptista.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://ccmar.ualg.pt/users/vcbaptista">Vânia Baptista</a>
+
+&nbsp;
+&nbsp;
+
+### Marine Biotechnology
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Ricardo_Trentin.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="http://www.google.com/search?q=ricardo+trentin+CCMAR">Ricardo Trentin</a>
 
 &nbsp;
 &nbsp;
