@@ -67,6 +67,18 @@ To be announced soon !
 
 <br>
 
+<br>
+
+<br> 
+
+<br>
+
+<br>
+
+<br> 
+
+<br>
+
 <a href="mailto:bluethinkconference@gmail.com">Contact us</a> if you want to become a sponsor of this event
 
 
