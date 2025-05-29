@@ -52,5 +52,17 @@ permalink: /sponsors/
 
 <br>
 
+<br>
+
+<br> 
+
+<br>
+
+<br>
+
+<br> 
+
+<br>
+
 Do you want to become a sponsor?
 <a href="mailto:bluethinkconference@gmail.com">Contact us</a>
