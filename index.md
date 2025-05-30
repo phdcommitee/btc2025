@@ -39,7 +39,17 @@ Conference: 10th September 2025
 &nbsp;
 
 # Keynote Speakers
-To be announced soon !
+### Global Changes, Ecosystem Services and Human Impact
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Ana_Colaco.jpg" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.okeanos.uac.pt/user-11">Ana Colaço</a>
+
+&nbsp;
+&nbsp;
+
+Ana Colaço has been a researcher at the University of the Azores for more than 20 years. Her main interests include vulnerable marine ecosystems, namely in hydrothermal vent and sponge aggregations. She studies trophic ecology of deep-sea systems, benthic ecology, ecosystem functioning and conservation. She is involved as an expert in several science-policy panels of the European Commission, International Seabed Authority, and the Portuguese government, and as nominee in CBD processes such as EBSA and the post 2020 GBF. She is presently co-chair of the Working Group Deep Sea Ecology (WGDEC) from the International council for the exploitation of the Sea. She participated in over 40 oceanographic cruises with submersibles (including 12 as a PI) and to five manned submersible dives (Alvin, Nautile and Lula1000). She is Commissaire of the Sargasso Sea Commission and member of the Advisory Board of DOSI.
 
 # Sponsors
 
