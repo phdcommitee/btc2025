@@ -301,7 +301,7 @@ To be confirmed soon!
 &nbsp;
 &nbsp;
 
-src="https://phdcommitee.github.io/btc2025//assets/images/Pedro_Cruz.jpg" alt="research line 2" align="left" width="100" height="100">
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Pedro_Cruz.jpg" alt="research line 2" align="left" width="100" height="100">
 
 &nbsp;
 
