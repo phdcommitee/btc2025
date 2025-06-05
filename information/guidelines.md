@@ -3,6 +3,7 @@ layout: default
 title: "Blue Think Conference 2025"
 permalink: /guidelines/
 ---
+<b style="color:blue;"> Please note that attendance to the Blue Think Conference 2025 is restricted to CIIMAR-UP and CCMAR members and/or associates </b>
 
 # Presentation Guidelines
 
