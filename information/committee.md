@@ -301,6 +301,15 @@ To be confirmed soon!
 &nbsp;
 &nbsp;
 
+src="https://phdcommitee.github.io/btc2025//assets/images/Pedro_Cruz.png" alt="research line 2" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/pedro-cruz/">Pedro Cruz</a>
+
+&nbsp;
+&nbsp;
+
 ## CCMAR PhD Students’ Committee
 <img src="https://phdcommitee.github.io/btc2025//assets/images/Miguel_Cabano.png" alt="research line 2" align="left" width="100" height="100">
 
