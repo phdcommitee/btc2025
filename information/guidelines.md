@@ -3,7 +3,10 @@ layout: default
 title: "Blue Think Conference 2025"
 permalink: /guidelines/
 ---
-<b style="color:blue;"> Please note that attendance to the Blue Think Conference 2025 is restricted to CIIMAR-UP and CCMAR members and/or associates </b>
+
+<b style="color:blue;"> Please note that attendance to the Blue Think Conference 2025 is restricted to CIIMAR, University of Porto (UP), CCMAR and University of Algarve (UAl) members </b>
+
+<b style="color:blue;"> Please note that submissions of abstracts for oral or poster presentation to the Blue Think Conference 2025 is restricted to students and research fellows affiliated with CIMAR-LA or thos whose affiliatiom ceased after 10 September 2024 </b>
 
 # Presentation Guidelines
 
