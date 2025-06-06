@@ -55,6 +55,21 @@ Conference: 10th September 2025
 
 Ana Colaço has been a researcher at the University of the Azores for more than 20 years. Her main interests include vulnerable marine ecosystems, namely in hydrothermal vent and sponge aggregations. She studies trophic ecology of deep-sea systems, benthic ecology, ecosystem functioning and conservation. She is involved as an expert in several science-policy panels of the European Commission, International Seabed Authority, and the Portuguese government, and as nominee in CBD processes such as EBSA and the post 2020 GBF. She is presently co-chair of the Working Group Deep Sea Ecology (WGDEC) from the International council for the exploitation of the Sea. She participated in over 40 oceanographic cruises with submersibles (including 12 as a PI) and to five manned submersible dives (Alvin, Nautile and Lula1000). She is Commissaire of the Sargasso Sea Commission and member of the Advisory Board of DOSI.
 
+# Guest Speakers
+### Workshop September 11th
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Ana_Freitas.jpg" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; Ana Freitas
+
+&nbsp;
+&nbsp;
+
+Ana Freitas is a doctoral candidate in Educational Sciences at the University of Porto, focusing on doctoral education. She holds a degree and a master’s in Education from the University of Minho and is certified as both a teacher trainer and a trainer of trainers.
+She is currently a guest lecturer at the University of Porto (Faculty of Engineering and Faculty of Sciences) and a research fellow at CIIE – Centre for Research and Intervention in Education. From 2014 to 2024, she coordinated the Transversal Skills Training Programme for doctoral students at FEUP and organised major academic events, including the Doctoral Congress in Engineering and the 2023 conference Research Conduct and Integrity.
+An active member of several European and national networks on doctoral education (PRIDE, RNED, SGOUP, EURODOC), she also contributed to EU-funded projects such as PEP-UP and DocTalent4EU. She is registered as an EU Expert for research and innovation programmes under Horizon Europe.
+
 # Sponsors
 
 <a href="https://www.ciimar.up.pt/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/CIIMAR_logo.png" alt="CIIMAR logo" align="left" width="150" height="150"> </a>
