@@ -55,6 +55,23 @@ Conference: 10th September 2025
 
 Ana Colaço has been a researcher at the University of the Azores for more than 20 years. Her main interests include vulnerable marine ecosystems, namely in hydrothermal vent and sponge aggregations. She studies trophic ecology of deep-sea systems, benthic ecology, ecosystem functioning and conservation. She is involved as an expert in several science-policy panels of the European Commission, International Seabed Authority, and the Portuguese government, and as nominee in CBD processes such as EBSA and the post 2020 GBF. She is presently co-chair of the Working Group Deep Sea Ecology (WGDEC) from the International council for the exploitation of the Sea. She participated in over 40 oceanographic cruises with submersibles (including 12 as a PI) and to five manned submersible dives (Alvin, Nautile and Lula1000). She is Commissaire of the Sargasso Sea Commission and member of the Advisory Board of DOSI.
 
+### Biology, Aquaculture and Seafood quality
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Maria_Teresa_Dinis.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.okeanos.uac.pt/user-11">Maria Teresa Dinis</a>
+
+&nbsp;
+&nbsp;
+
+Maria Teresa Dinis is Emeritus Professor at the University of Algarve. She obtained her PhD in France, at the Université de Bretagne Occidentale (Brest) studying the biology and cultivation of flat fishes. Since the eighties she has been involved in marine fish cultivation projects, mostly concerning quality of eggs and larvae. She formed and coordinates the Aquaculture Research Group at the Centre of Marine Sciences/University of Algarve, where National and International projects for new species for aquaculture in the Mediterranean area have been conducted.
+She has been coordinator of numerous research projects, taken part of consultant committees at the Portuguese Government level and participating since 2010, as independent expert on the evaluation of the European Funds for Fisheries among the different Frameworks for Portugal.
+She has had collaborative and interactive links with many Universities and Institutes in European and African countries. Current projects involve larval nutrition, brood stock management and, more recently, evaluation of sustainable extensive and semiextensive aquaculture. She was a member of the EAS Board for the period 2010-2014.
+As a consultant expert she has taken part on the elaboration of the Strategic Plan for Fisheries Developing in Angola (J&Brothers Ltd), on the Maritime Cluster for Madeira Island (IESE) and on the Maritime Cluster for Cape Verde (SAER S.A.)
+In 2020 she was awarded by the Ministry of Science Technology with the Medal of Scientific Merit, for her contribution to the field of aquaculture in Portugal. 
+
+
 # Guest Speakers
 ### Workshop September 11th
 <img src="https://phdcommitee.github.io/btc2025//assets/images/Ana_Freitas.jpg" alt="research line 3" align="left" width="100" height="100">
