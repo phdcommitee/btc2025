@@ -104,7 +104,7 @@ An active member of several European and national networks on doctoral education
 
 <a href="https://www.educacao-e-cidadania.pt/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/Educacao_Cidadania_logo.png" alt="Educacao logo" align="left" width="150" height="125"> </a>
 
-<a href="https://home.laborders.com/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/Laborders_logo.jpeg" alt="LAB ORDERS logo" align="left" width="150" height="125"> </a>
+<a href="https://laborspirit.com/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/labor_spirit_logo.png" alt="LAB ORDERS logo" align="left" width="150" height="125"> </a>
 
 <a href="https://www.paladin.pt/about" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/Paladin_logo.png" alt="PALADIN logo" align="left" width="150" height="125"> </a>
 
