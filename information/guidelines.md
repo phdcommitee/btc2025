@@ -8,7 +8,13 @@ permalink: /guidelines/
 
 <b style="color:blue;"> Please note that submissions of abstracts for oral or poster presentation to the Blue Think Conference 2025 is restricted to students and research fellows affiliated with CIMAR-LA or thos whose affiliatiom ceased after 10 September 2024 </b>
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vQWhZNncJzDVDOsV68exHMcxDNgjDDPxENV9-eKTRCyDya5SfBMkhsqee7v2AmYVLB1E0IhUXnkbusv/pub?embedded=true"></iframe>
+<div style="width: 100%; height: 600px; position: relative;">
+  <iframe 
+    src="https://docs.google.com/document/d/e/2PACX-1vQWhZNncJzDVDOsV68exHMcxDNgjDDPxENV9-eKTRCyDya5SfBMkhsqee7v2AmYVLB1E0IhUXnkbusv/pub?embedded=true"
+    style="width: 100%; height: 100%; border: none;"
+    allowfullscreen
+  ></iframe>
+</div>
 
 ## Abstract template
 
