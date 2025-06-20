@@ -88,6 +88,22 @@ Ana Freitas is a doctoral candidate in Educational Sciences at the University of
 She is currently a guest lecturer at the University of Porto (Faculty of Engineering and Faculty of Sciences) and a research fellow at CIIE – Centre for Research and Intervention in Education. From 2014 to 2024, she coordinated the Transversal Skills Training Programme for doctoral students at FEUP and organised major academic events, including the Doctoral Congress in Engineering and the 2023 conference Research Conduct and Integrity.
 An active member of several European and national networks on doctoral education (PRIDE, RNED, SGOUP, EURODOC), she also contributed to EU-funded projects such as PEP-UP and DocTalent4EU. She is registered as an EU Expert for research and innovation programmes under Horizon Europe.
 
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Ana_Salgado.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; Ana Salgado
+
+&nbsp;
+&nbsp;
+
+Ana Salgado holds a Ph.D. in Educational Psychology from Minho University. She is now currently working at CIIMAR coordinating the advanced training and career development office.
+With over 15 years of experience in higher education, she taught health, sciences, education, psychology in different institutions. 
+She coordinated a pedagogical project to improve the quality of teaching and worked as a consultant.
+Ana developed several training courses for PhD supervisors, and other curricular units to PhD, master and bachelor students related with transversal and transferable skills.
+Her research interests include communication skills, gamification, and self-regulated learning.
+
+
 # Sponsors
 
 <a href="https://www.ciimar.up.pt/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/CIIMAR_logo.png" alt="CIIMAR logo" align="left" width="150" height="150"> </a>
