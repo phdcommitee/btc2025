@@ -72,6 +72,19 @@ She has had collaborative and interactive links with many Universities and Insti
 As a consultant expert she has taken part on the elaboration of the Strategic Plan for Fisheries Developing in Angola (J&Brothers Ltd), on the Maritime Cluster for Madeira Island (IESE) and on the Maritime Cluster for Cape Verde (SAER S.A.)
 In 2020 she was awarded by the Ministry of Science Technology with the Medal of Scientific Merit, for her contribution to the field of aquaculture in Portugal. 
 
+### Marine Biotechnology
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Silvia_Lino.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.linkedin.com/in/silvia-lino/?originalSubdomain=pt">Silvia Lino</a>
+
+&nbsp;
+&nbsp;
+
+Engenheira em Biotecnologia pela Universidade Lusófona de Lisboa e doutora em Biologia Marinha pela Universidade dos Açores. Durante o PhD desenvolveu um projeto para bioprospecção de compostos naturais marinhos de animais de profundidade onde explorou as suas possibilidades terapêuticas. Trabalha desde 2016 na Sea4Us: uma empresa de biotecnologia para investigação e desenvolvimento de produtos farmacêuticos com inspiração marinha, com sede em Sagres, focada especificamente em procurar novas alternativas para a dor. 
+Na Sea4us coordena a equipa de gestão de dados científicos e gere projetos IDI como o "SeaDiscovery" e “SeaCancer”, que procuram novas soluções para problemas humanos, como a dor crónica, doença inflamatória intestinal, dor associada à quimioterapia ou cancro.
+
 
 # Guest Speakers
 ### Workshop September 11th
