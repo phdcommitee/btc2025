@@ -27,7 +27,14 @@ permalink: /committee/
 &nbsp;
 
 ### Marine Biotechnology
-To be confirmed soon!
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Mariana_Reis.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/mariana-reis/">Mariana Reis</a>
+
+&nbsp;
+&nbsp;
 
 # Scientific Committee
 ## CIIMAR
