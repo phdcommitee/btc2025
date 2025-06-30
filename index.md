@@ -14,7 +14,7 @@ title: "Blue Think Conference 2025"
 
 Oral Abstract Submission Deadline: <del>June 16th</del>  <del>June 27th</del> <b>closed</b> 
 
-Registration Deadline: to be announced
+Registration Deadline: 3th September 2025
 
 Conference: 10th September 2025
 
