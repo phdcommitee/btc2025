@@ -48,6 +48,33 @@ permalink: /committee/
 &nbsp;
 &nbsp;
 
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Helena_Fernandes.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/helena-fernandes/">Helena Fernandes</a>
+
+&nbsp;
+&nbsp;
+
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Sara_Rodrigues.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/sara-rodrigues/">Sara Rodrigues</a>
+
+&nbsp;
+&nbsp;
+
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Jose_Queiros.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/jose-queiros/">Jose Queiros</a>
+
+&nbsp;
+&nbsp;
+
 <img src="https://phdcommitee.github.io/btc2025//assets/images/Sara_Moutinho.png" alt="research line 3" align="left" width="100" height="100">
 
 &nbsp;
@@ -118,6 +145,33 @@ permalink: /committee/
 &nbsp;
 
 ### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/diogo-alexandrino/">Diogo Alexandrino</a>
+
+&nbsp;
+&nbsxp;
+
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Joana_Fernandes.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/joana-fernandes/">Joana Fernandes</a>
+
+&nbsp;
+&nbsp;
+
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Tiago_Ribeiro.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/tiago-ribeiro/">Tiago Ribeiro</a>
+
+&nbsp;
+&nbsp;
+
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Raquel_Chaves.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/raquel-chaves/">Raquel Chaves</a>
 
 &nbsp;
 &nbsp;
