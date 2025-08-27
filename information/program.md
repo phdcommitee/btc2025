@@ -79,7 +79,7 @@ permalink: /program/
     <thead>
       <tr>
         <th>Hora</th>
-        <th>DIA 1<br><span style="font-size:14px;font-weight:400;">Terminal de Cruzeiros do Porto de Leixões</span></br></th>
+        <th>DIA 1<br><span style="font-size:14px;font-weight:400;">Terminal de Cruzeiros do Porto de Leixões</span></th>
         <th>DIA 2</th>
       </tr>
     </thead>
