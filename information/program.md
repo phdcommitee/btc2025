@@ -79,7 +79,7 @@ permalink: /program/
     <thead>
       <tr>
         <th>Hora</th>
-        <th>DIA 1<br><span style="font-size:14px;font-weight:400;">Terminal de Cruzeiros do Porto de Leixões</span></th>
+        <th>DIA 1<br><span style="font-size:14px;font-weight:400;">Terminal de Cruzeiros do Porto de Leixões</span></br></th>
         <th>DIA 2</th>
       </tr>
     </thead>
@@ -87,7 +87,6 @@ permalink: /program/
       <tr>
         <td>08:45 AM</td>
         <td rowspan=2>Registrations</td>
-        <td></td>
       </tr>
       <tr>
         <td>09:00 AM</td>
@@ -103,7 +102,6 @@ permalink: /program/
       <tr>
         <td>09:45 AM</td>
         <td rowspan=3>Session 1: 1st Keynote speaker</td>
-        <td></td>
       </tr>
       <tr>
         <td>10:00 AM</td>
