@@ -66,15 +66,6 @@ permalink: /committee/
 &nbsp;
 &nbsp;
 
-<img src="https://phdcommitee.github.io/btc2025//assets/images/Jose_Queiros.png" alt="research line 3" align="left" width="100" height="100">
-
-&nbsp;
-
-### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/jose-queiros/">Jose Queiros</a>
-
-&nbsp;
-&nbsp;
-
 <img src="https://phdcommitee.github.io/btc2025//assets/images/Sara_Moutinho.png" alt="research line 3" align="left" width="100" height="100">
 
 &nbsp;
@@ -108,6 +99,15 @@ permalink: /committee/
 &nbsp;
 
 ### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/pedro-rodrigues/">Pedro Rodrigues</a>
+
+&nbsp;
+&nbsp;
+
+<img src="https://phdcommitee.github.io/btc2025//assets/images/Jose_Queiros.png" alt="research line 3" align="left" width="100" height="100">
+
+&nbsp;
+
+### &nbsp; &nbsp; <a href="https://www.ciimar.up.pt/pt-pt/members/jose-queiros/">Jose Queiros</a>
 
 &nbsp;
 &nbsp;
