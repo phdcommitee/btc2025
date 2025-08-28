@@ -26,6 +26,10 @@ permalink: /sponsors/
 
 <a href="https://www.paladin.pt/about" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/UAlg.jpg" alt="UAlg logo" align="left" width="150" height="125"> </a>
 
+<a href="https://www.cgd.pt/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/Caixa-geral-de-depositos.png" alt="CGD logo" align="left" width="150" height="125"> </a>
+
+<a href="https://www.sarstedt.com/pt/" target="_blank"> <img src="https://phdcommitee.github.io/btc2025//assets/images/sarstedt_logo" alt="Sarsedt logo" align="left" width="150" height="125"> </a>
+
 <br>
 
 <br> 
