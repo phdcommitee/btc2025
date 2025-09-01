@@ -78,9 +78,9 @@ permalink: /program/
   <table class="schedule-table">
     <thead>
       <tr>
-        <th>Hora</th>
-        <th>DIA 1<br><span style="font-size:14px;font-weight:400;">Terminal de Cruzeiros do Porto de Leixões</span></th>
-        <th>DIA 2</th>
+        <th>Time</th>
+        <th>DAY 1<br><span style="font-size:14px;font-weight:400;">Terminal de Cruzeiros do Porto de Leixões</span></th>
+        <th>DAY 2</th>
       </tr>
     </thead>
     <tbody>
