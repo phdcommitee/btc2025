@@ -8,13 +8,12 @@ title: "Blue Think Conference 2025"
 </div>
 <script src="https://phdcommitee.github.io/btc2025/assets/js/countdown.js"></script>
 
-# BTC2025 Registrations are now open!
+# BTC2025 Registrations have been CLOSED
 ## Oral Abstract Submission Deadline have been CLOSED
-### It is still possible to register for attending the conference and/or submitting a poster
 
 Oral Abstract Submission Deadline: <del>June 16th</del>  <del>June 27th</del> <b>closed</b> 
 
-Registration Deadline: 3th September 2025
+Registration Deadline: <del>3th September 2025</del> <b>closed</b>
 
 Conference: 10th September 2025
 
