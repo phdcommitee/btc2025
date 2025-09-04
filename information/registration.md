@@ -16,11 +16,11 @@ It is no longer possible to register at the conference through the website.
 <div class="rectangle">
  <a href="https://forms.gle/x7iaiNhxqJzZ8XxaA"> Click here to register </a>
 </div>
- -->
  
 The same form is used for whose want to participate in the conference without submitting any abstract and for whose wanting to present a poster presentation. Oral presentations are no longer accepted.
 
 For indication regarding abstract submission, please visit the [Guidelines](https://phdcommitee.github.io/btc2025/guidelines/) section of this website.
+ -->
 
 
 
