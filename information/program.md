@@ -107,7 +107,7 @@ permalink: /program/
       </tr>
       <tr>
         <td>09:30 AM</td>
-        <td rowspan=4>Session 1: 1st Keynote speaker</td>
+        <td rowspan=4>Session 1: Doctor Maria Teresa Dinis</td>
       </tr>
       <tr>
         <td>09:45 AM</td>
@@ -130,35 +130,37 @@ permalink: /program/
       </tr>
       <tr>
         <td>10:45 AM</td>
-        <td rowspan=2>Presentation 1</td>
+        <td rowspan=2>Maria João Pais (Comparative Endocrinology, CCMAR) - "Circannual Prevalence of tetrodotoxins in trumpet shells: sea stars as a possible source of contamination and implications for food safety"</td>
       </tr>
       <tr>
         <td>11:00 AM</td>
       </tr>
       <tr>
         <td>11:00 AM</td>
-        <td rowspan=2>Presentation 2</td>
+        <td rowspan=2>Inês Carvalho (Aquatic Animal Health, CIIMAR) – “Feeding duration shapes the immunomodulatory role of methionine in European Seabass”
+</td>
       </tr>
       <tr>
         <td>11:15 AM</td>
       </tr>
       <tr>
         <td>11:15 AM</td>
-        <td rowspan=2>Presentation 3</td>
+        <td rowspan=2>Paulo Santos (Aquatic Animal Health, CIIMAR) – “Harnessing Marine Algae Bioproducts to Enhance Immune Response in European Seabass (Dicentrarchus labrax) juveniles”
+</td>
       </tr>
       <tr>
         <td>11:30 AM</td>
       </tr>
       <tr>
         <td>11:30 AM</td>
-        <td rowspan=2>Presentation 4</td>
+        <td rowspan=2>Aires Duarte (Coastal Biodiversity Laboratory, CIIMAR) - “Cultivation of Ulva sp. associated with a RAS fish farm: biomass productivity and its valorisation potential”</td>
       </tr>
       <tr>
         <td>11:45 AM</td>
       </tr>
       <tr>
         <td>11:45 AM</td>
-        <td rowspan=2>Presentation 5</td>
+        <td rowspan=2>André Monteiro (LANUCE, CIIMAR) – “Hediste diversicolor and Gammarus locusta as dietary supplements for gilthead seabream”</td>
       </tr>
       <tr>
         <td>12:00 PM</td>
@@ -197,7 +199,7 @@ permalink: /program/
       </tr>
       <tr>
         <td>02:00 PM</td>
-        <td rowspan=4>Session 2: 2nd Keynote speaker</td>
+        <td rowspan=4>Session 2: Doctor Silvia Lino</td>
       </tr>
       <tr>
         <td>02:15 PM</td>
@@ -210,35 +212,36 @@ permalink: /program/
       </tr>
       <tr>
         <td>02:45 PM</td>
-        <td rowspan=2>Presentation 1</td>
+        <td rowspan=2>Mohamed Emam Mansour (Evolutionary Genomics and Bioinformatics, CIIMAR) – “A Graph Neural Encoder for Multi-Omics Fusion and Protein”
+</td>
       </tr>
       <tr>
         <td>03:00 PM</td>
       </tr>      
       <tr>
         <td>03:00 PM</td>
-        <td rowspan=2>Presentation 2</td>
+        <td rowspan=2>Mena Nagy Adly Khalaf (Evolutionary Genomics and Bioinformatics, CIIMAR) – “Computational Detection of antimicrobial Peptide Candidates from Brown Algae via Integrated Bioinformatics Approaches”</td>
       </tr>
       <tr>
         <td>03:15 PM</td>
       </tr>
       <tr>
         <td>03:15 PM</td>
-        <td rowspan=2>Presentation 3</td>
+        <td rowspan=2>Cristina Sousa (Cyanobacterial Natural Products, CIIMAR) – Transcriptome analysis of a cyanobacterial strain and it’s new fatty acid incorporation pathway upon fatty acid supplementation”</td>
       </tr>
       <tr>
         <td>03:30 PM</td>
       </tr>
       <tr>
         <td>03:30 PM</td>
-        <td rowspan=2>Presentation 4</td>
+        <td rowspan=2>Leonor Ferreira (BBEH/B4H, CIIMAR) – New cytotoxin compound from cyanobacteria induces apoptosis and spheroid degradation of cancer cells</td>
       </tr>
       <tr>
         <td>03:45 PM</td>
       </tr>
       <tr>
         <td>03:45 PM</td>
-        <td>Presentation 5</td>
+        <td>Paulo Sousa (BBEH, CIIMAR) - “Chlorella vulgaris and Microplastics: Shifting Bioremediation Dynamics in Wastewater”</td>
       </tr>
       <tr>
         <td>04:00 PM</td>
@@ -255,7 +258,7 @@ permalink: /program/
       </tr>
       <tr>
         <td>04:30 PM</td>
-        <td rowspan=4>Session 3: 3rd Keynote speaker - Ana Colaço</td>
+        <td rowspan=4>Session 3: Doctor Ana Colaço</td>
       </tr>
       <tr>
         <td>04:45 PM</td>
@@ -268,35 +271,36 @@ permalink: /program/
       </tr>
       <tr>
         <td>05:15 PM</td>
-        <td rowspan=2>Presentation 1</td>
+        <td rowspan=2>Carolina de la Hozz Schilling (Biogeographical Ecology and Evolution, CCMAR) – “First documentation of a nursery areafor the critically endangered scalloped hammerhead shark, Sphyrna lewini, in Mauritania, West Africa.
+</td>
       </tr>
       <tr>
         <td>05:30 PM</td>
       </tr>
       <tr>
         <td>05:30 PM</td>
-        <td rowspan=2>Presentation 2</td>
+        <td rowspan=2>Jesús Fernández-Gutiérrez (Coastal Biodiversity Laboratory, CIIMAR) – “Could the same mitigation strategy be applied successfully in marinas under different environmental conditions?”</td>
       </tr>
       <tr>
         <td>05:45 PM</td>
       </tr>
       <tr>
         <td>05:45 PM</td>
-        <td rowspan=2>Presentation 3</td>
+        <td rowspan=2>Nicola Gambardella (Microbiome Ecology and Biogeochemistry, CIIMAR) – Mapping Pathogen Profiling of Cetacean Blow: Comparative insights from sequencing technologies</td>
       </tr>
       <tr>
         <td>06:00 PM</td>
       </tr>
       <tr>
         <td>06:00 PM</td>
-        <td rowspan=2>Presentation 4</td>
+        <td rowspan=2>Isabel Santos de Sousa (Microbiome Ecology and Biogeochemistry - CIIMAR) – Sustainable Space Habitats: Fungal Biotechnology for Bioregenerative Life Support Ecosystems</td>
       </tr>
       <tr>
         <td>06:15 PM</td>
       </tr>
       <tr>
         <td>06:15 PM</td>
-        <td rowspan=2>Presentation 5</td>
+        <td rowspan=2>David Neves (Endocrine Disruptors and Emerging Contaminants, CIIMAR) – Environmental Risk of Metformin in Gammarus locusta: Multi and Transgerational effects of Environmental levels</td>
       </tr>
       <tr>
         <td>06:30 PM</td>
